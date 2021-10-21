@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сколько до звонка?</string>
+    <string name="title_dashboard">Расписание</string>
+    <string name="no_time_table">Нет расписания. Пожалуйста добавьте расписания звонков.</string>
+    <string name="no_more_calls">На этом всё.</string>
+    <string name="unlit_the_lesson">До звонка осталось:</string>
+    <string name="hours">ч</string>
+    <string name="minuts">м</string>
+    <string name="DelButton">Удалить</string>
+    <string name="AddButton">+ Добавить время</string>
+    <string name="title_home">Сколько до звонка?</string>
+    <string name="Now">Звонок!</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Until The Lesson</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Time Table</string>
+    <string name="no_time_table">No timetable. Please add the time of calls to the lesson</string>
+    <string name="no_more_calls">End for today</string>
+    <string name="unlit_the_lesson">Until the call is left:</string>
+    <string name="hours">h</string>
+    <string name="minuts">m</string>
+    <string name="DelButton">Delete</string>
+    <string name="AddButton">+ Add Time</string>
+    <string name="Now">Call now!</string>
+</resources>
